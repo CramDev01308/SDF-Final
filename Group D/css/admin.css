@@ -1,0 +1,14 @@
+.custom-background {
+    background-color: #34495e;
+    color: white;
+}
+
+table.table-bordered thead tr.custom-row th,
+table.table-bordered tbody tr.custom-row td {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.search-bar {
+    margin-left: 10px; /* Add margin to the left of the search bar */
+  }
